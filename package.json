@@ -1,0 +1,24 @@
+{
+  "name": "generator-report-xlsx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanravelli/generator-report-xlsx.git"
+  },
+  "author": "Renan Ravelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renanravelli/generator-report-xlsx/issues"
+  },
+  "homepage": "https://github.com/renanravelli/generator-report-xlsx#readme",
+  "dependencies": {
+    "decamelize": "^3.2.0",
+    "uppercamelcase": "^3.0.0",
+    "yeoman-generator": "^3.2.0"
+  }
+}
